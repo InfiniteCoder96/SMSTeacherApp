@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163517869682",
+    "firebase_url": "https://smsitp-4bee4.firebaseio.com",
+    "project_id": "smsitp-4bee4",
+    "storage_bucket": "smsitp-4bee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163517869682:android:c15398ddb49ed6da",
+        "android_client_info": {
+          "package_name": "com.androidapp.scalar.scalarschoolmanagementsystemteacherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163517869682-r72igqramqceues6od3jrpgop1rkmii8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidapp.scalar.scalarschoolmanagementsystemteacherapp",
+            "certificate_hash": "802805093f03b9701bf05ba031c2b423c0172e1b"
+          }
+        },
+        {
+          "client_id": "163517869682-pcq13sst7va6a33s5g1n1o4m9utehcco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAcimYNxqBMajDHNQoWkDsTrELSJxQJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163517869682-pcq13sst7va6a33s5g1n1o4m9utehcco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
